@@ -1,3 +1,4 @@
+# Repository is deprecated! Development has moved to: https://github.com/ccmjs/ccm-factory
 # Factory for ccm components
 
 This factory is used to modify [ccm](https://github.com/akless/ccm) components.
